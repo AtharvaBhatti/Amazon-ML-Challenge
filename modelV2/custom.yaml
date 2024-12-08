@@ -1,0 +1,18 @@
+# Path to the directories containing training and validation images
+path: /home/atharva/ML challan/final_dataset
+train: /home/atharva/ML challan/final_dataset/train
+val: /home/atharva/ML challan/final_dataset/val
+
+# Number of classes in the dataset
+nc: 8
+
+# Class names
+names: 
+  0: 'width'
+  1: 'depth'
+  2: 'height'
+  3: 'item_weight'
+  4: 'maximum_weight_recommendation'
+  5: 'voltage'
+  6: 'wattage'
+  7: 'item_volume'

@@ -1,0 +1,14 @@
+path: /home/atharva/ML challan/dataset
+train: /home/atharva/ML challan/dataset/train
+val: /home/atharva/ML challan/dataset/val
+
+nc: 8
+names:
+    0: width
+    1: depth
+    2: height
+    3: item_weight
+    4: maximum_weight_recommendation
+    5: voltage
+    6: wattage
+    7: item_volume
